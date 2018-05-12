@@ -1,9 +1,13 @@
 _repo: Main-Currents-in-Nineteenth-Century-Literature-4-Naturalism-in-England_47892
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Morison, Mary
     gutenberg_agent_id: '36320'
     url: http://www.gutenberg.org/2009/agents/36320
+covers:
+- cover_type: archival
+  image_path: 47892-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47892#Main-Currents-in-Nineteenth-Century-Literature-4-Naturalism-in-England
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
 identifiers:
